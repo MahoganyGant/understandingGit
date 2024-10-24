@@ -1,4 +1,5 @@
 package AnimalKingdom;
 
-public class Robot {
+public abstract class Robot {
+
 }
