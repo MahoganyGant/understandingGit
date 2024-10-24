@@ -1,4 +1,4 @@
-package AnimalKingdom;
+package animalKingdom;
 
 public class Agent {
 }
